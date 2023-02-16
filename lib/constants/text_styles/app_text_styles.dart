@@ -10,4 +10,5 @@ class AppTextStyles {
     color: Colors.white.withOpacity(0.8),
     fontWeight: FontWeight.w500,
   );
+  
 }
